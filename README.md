@@ -1,3 +1,3 @@
-"# proyecto-usuarios-ap" 
+# CRUD with Firebase
 
-"# CRUD made with JavaScript, Bootstrap & Firebase"
+CRUD made with JavaScript, Bootstrap & Firebase
